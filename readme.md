@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Erika Vegamand I'm a engineering student.</h2>
+<h2 align="center">Hi 👋! My name is Erika Vega </h2>
 
 ###
 
